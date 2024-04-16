@@ -34,9 +34,9 @@
 </br>
 
 ### Контент-менеджеры
-**Klei??** - оформляет посты в нашем канале и контролирует регулярность их выхода
+**999-99-99** - создаёт посты в нашем канале и контролирует регулярность их выхода
 
-[![Static Badge](https://img.shields.io/badge/telegram-white?style=flat&logo=telegram&logoColor=%23000000&labelColor=%23ffffff&color=%23000000)](https://t.me/ya_Klei)
+[![Static Badge](https://img.shields.io/badge/telegram-white?style=flat&logo=telegram&logoColor=%23000000&labelColor=%23ffffff&color=%23000000)](https://t.me/communez)
 
 </br>
 
@@ -59,6 +59,4 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=We+create+our+own+world">
-</p>
-
 
