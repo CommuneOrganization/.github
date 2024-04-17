@@ -50,3 +50,13 @@
 </br>
 
 ***Подать заявку на встпление в команду вы можете через нашего [телеграм бота](https://t.me/commune_zbot)**
+
+</br>
+
+-----
+
+</br>
+
+<p align="center">
+  <img src="https://github.com/CommuneOrganization/.github/assets/166984233/2c497f3e-1441-43a4-b840-881a1c95a206">
+</p>
