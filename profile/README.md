@@ -27,7 +27,7 @@
 </br>
 
 ### Модератор
-**D3v** - HR менеджер и шериф [чата](https://t.me/scamcommunity_commune). Набрает новых людей в команду и следит за порядком в нашем клондайке
+**D3v** - HR менеджер и шериф [чата](https://t.me/scamcommunity_commune). Набирает новых людей в команду и следит за порядком в нашем клондайке
 
 [![Static Badge](https://img.shields.io/badge/telegram-white?style=flat&logo=telegram&logoColor=%23000000&labelColor=%23ffffff&color=%23000000)](https://t.me/DimonDevYT)
 
