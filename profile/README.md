@@ -19,7 +19,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=F7F7F7&random=false&width=435&lines=%D0%9D%D0%B0%D1%88%D0%B0+%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0+%F0%9F%92%80)](https://git.io/typing-svg)
 
 ### Администратор
-**Obscure** - лидер COMMUNE. Представляет проект, реламирует его и систематизирует всю экосистему
+**Obscure** - лидер COMMUNE. Представляет проект, рекламирует его и систематизирует всю экосистему
 
 [![Static Badge](https://img.shields.io/badge/telegram-white?style=flat&logo=telegram&logoColor=%23000000&labelColor=%23ffffff&color=%23000000)](https://t.me/onionua)
 [![Static Badge](https://img.shields.io/badge/github-white?style=flat&logo=github&logoColor=%23000000&labelColor=%23ffffff&color=%23000000)](https://github.com/obscure88)
